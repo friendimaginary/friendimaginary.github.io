@@ -7,7 +7,16 @@
     <description>The Exhaust Pipe
 </description>
     <generator>Radix</generator>
-    <lastBuildDate>Wed, 17 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>My new favorite way to scrape a wiki table</title>
+      <dc:creator>Patryk Soika</dc:creator>
+      <link>https://friendimaginary.github.io/posts/2018-10-30-my-new-favorite-way-to-scrape-a-wiki-table</link>
+      <description>A short example using bow() and scrape() from Polite.</description>
+      <guid>https://friendimaginary.github.io/posts/2018-10-30-my-new-favorite-way-to-scrape-a-wiki-table</guid>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      <media:content url="https://friendimaginary.github.io/posts/2018-10-30-my-new-favorite-way-to-scrape-a-wiki-table/polite-logo.png" medium="image" type="image/png" width="512" height="198"/>
+    </item>
     <item>
       <title>New P route stop times</title>
       <dc:creator>Patryk Soika</dc:creator>

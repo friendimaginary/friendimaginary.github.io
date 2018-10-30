@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2018-10-30-my-new-favorite-way-to-scrape-a-wiki-table/",
+    "title": "My new favorite way to scrape a wiki table",
+    "description": "A short example using bow() and scrape() from Polite.",
+    "author": [
+      {
+        "name": "Patryk Soika",
+        "url": {}
+      }
+    ],
+    "date": "2018-10-30",
+    "categories": [],
+    "preview": "posts/2018-10-30-my-new-favorite-way-to-scrape-a-wiki-table/polite-logo.png",
+    "last_modified": "2018-10-30T16:46:32-04:00",
+    "preview_width": 512,
+    "preview_height": 198
+  },
+  {
     "path": "posts/2018-10-17-new-p-route-stop-times/",
     "title": "New P route stop times",
     "description": "A table of my most used CATA bus stops and times.",
